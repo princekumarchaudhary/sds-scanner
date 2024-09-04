@@ -26,24 +26,7 @@ function App() {
                 <input type={"submit"} style={{ backgroundColor: "#98FB98" }} />
                 
             </form> 
-          {/*}  <div className="App">
-      <h2>Navigate to Lgin Page on Button Click</h2>
-      <Router>
-        <div>
-          <nav>
-            <ul>
-              <li><Link to="/">Dashboard</Link></li>
-              <li><Link to="/customer">Customer</Link></li>
-            </ul>
-          </nav>
-          <Routes>
-            <Route path="/" element={<Dashboard />} />
-            <Route path="/customer" element={<Customer />} />
-            <Route path="/userinfo/:username" element={<UserInfo />} />
-          </Routes>
-        </div>
-      </Router>
-    </div>*/}
+          
         </>
         
     );
